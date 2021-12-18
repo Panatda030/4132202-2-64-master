@@ -11,3 +11,4 @@ const dom = (
     function Dom(){
         return dom;
     }
+    export default Dom
